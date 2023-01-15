@@ -88,7 +88,7 @@
 [bilibili网址](https://www.bilibili.com"滚")<br>
 [Github](https://github.com "蛋")
 
-![壁纸截图](https://i.328888.xyz/2023/01/15/2mnOV.jpeg"第一二课笔记")
+![证件](https://i.postimg.cc/fWPms5V0/20201003150307.jpg"证件照")
 
 ### 上传的图片地址不允许是本地图片地址 , 将本地图片上传到某个图片网站， 生成一个图片的网络URL(网络地址)， 用网络地址，github就可以访问加载图片了
 
